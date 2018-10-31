@@ -15,6 +15,7 @@
 - [Sumit Kumar Daroch](https://github.com/sumitdaroch)
 - [Muhammad Ijaz](https://github.com/mejaz992)
 - [Himanshu Singh](https://github.com/himanshux101)
+-[tanveer singh modi](https://github.com/tnveer)
 - [Suraj Jaiswal](https://github.com/surajkumarcse)
 - [Prayas Drolia](https://github.com/prayasdrolia1)
 - [morg0n](https://github.com/morg0n)
